@@ -66,7 +66,6 @@ public class DesktopSubliminalDisplay {
 
   public static void main(String[] args) {
     DesktopSubliminalDisplay display = new DesktopSubliminalDisplay();
-    display.addMessage("Unlimited income flows in my life");
     display.addMessage("I give thanks for all the money I have");
     display.addMessage("I make more and more money each year");
     display.addMessage("Money comes to me easily and effortlessly");
@@ -79,17 +78,12 @@ public class DesktopSubliminalDisplay {
     display.addMessage("I am self-confident");
     display.addMessage("I can do anything I set my mind to");
     display.addMessage("I will get a job at big tech company");
-    display.addMessage("You are a winner");
+    display.addMessage("I am a winner");
     display.addMessage("I am smart");
     display.addMessage("I remmember what I study");
     display.addMessage("I get excellent grades in school");
-    display.addMessage("I coding is really easy for me");
     display.addMessage("I will have my own business");
     display.addMessage("I am totally confident");
-    display.addMessage("I deserve a beautiful woman");
-    display.addMessage("I attract beautiful women");
-    display.addMessage("Womens are attracted to me");
-    display.addMessage("Women would crave to spend time with me");
     display.addMessage("I am good looking");
     display.addMessage("I have strong mind");
     display.addMessage("I have fun");
@@ -105,7 +99,6 @@ public class DesktopSubliminalDisplay {
     display.addMessage("My dreams are coming true");
     display.addMessage("I now attract my soul-mate");
     display.addMessage("I love being with my soul mate");
-    display.addMessage("I will travel the world with my soul mate");
     display.startDisplay();
   }
 }
